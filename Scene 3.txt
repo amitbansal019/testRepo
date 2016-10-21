@@ -23,8 +23,11 @@ hi next do it
 
 OPHELIA
 No more but so?
+<<<<<<< HEAD
 i 
 amit 
 making the 
 change 
 and you can't do anythig 
+=======
+>>>>>>> parent of aa79262... Scene 3 Good Commit
