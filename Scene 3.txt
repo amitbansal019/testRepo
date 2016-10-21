@@ -23,12 +23,3 @@ The perfume and suppliance of a minute; No more.
 OPHELIA
 No more but so?
 
-<<<<<<< HEAD
-//Changes for Good Commit
-
-//Changes for Bad Commit
-
-adding my name amit
-=======
-//Changes for Good Comit
->>>>>>> parent of e270e41... Scene 3 Bad Commit
