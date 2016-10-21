@@ -26,3 +26,5 @@ No more but so?
 //Changes for Good Commit
 
 //Changes for Bad Commit
+
+adding my name amit
